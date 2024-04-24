@@ -1,0 +1,13 @@
+## Ignore these files
+# Environment variables
+.env
+
+# Data directory
+data/
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
